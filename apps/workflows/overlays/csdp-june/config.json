@@ -1,1 +1,0 @@
-{"appName":"workflows","userGivenName":"workflows","destNamespace":"csdp-june","destServer":"https://kubernetes.default.svc","srcPath":"apps/workflows/overlays/csdp-june","srcRepoURL":"https://github.com/cf-charizard/csdp-june.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component","codefresh_io_internal":"true"}}
