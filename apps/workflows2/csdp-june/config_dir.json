@@ -1,0 +1,15 @@
+{
+  "appName": "workflows2",
+  "userGivenName": "workflows2",
+  "destNamespace": "workflows-demo",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "workflows",
+  "srcRepoURL": "https://github.com/cf-charizard/csdp-june-workflows.git",
+  "srcTargetRevision": "main",
+  "labels": {
+    "codefresh_io_entity": "git-source",
+    "codefresh_io_internal": "false"
+  },
+  "exclude": "",
+  "include": ""
+}
